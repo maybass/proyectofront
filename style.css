@@ -1,0 +1,66 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;	
+	
+}
+
+
+/*html {
+	font-size: 62.5%;
+}*/
+
+body {
+
+background-color: black;	
+	
+}
+
+
+
+.log-in {
+	float: right;
+}
+
+.log-in-button {
+	
+	width: 100%;
+	height: auto;
+	
+}
+
+.logo {
+	font-size: 2.2rem;
+	font-family: 'Dancing Script', cursive;
+}
+
+.title {
+	color: white;
+	text-align: center;
+	margin: 30px auto;
+	
+}
+
+.nav {
+	display: flex;
+	justify-content: center;
+	margin: 50px auto;
+	
+}
+
+.nav li {
+	width: 25%;
+	text-align: center;
+	font-size: 3.2rem;
+}
+
+
+img {
+	
+	margin: auto;
+	height: 50vh;
+	
+	
+}
+
+
